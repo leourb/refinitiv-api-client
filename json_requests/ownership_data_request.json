@@ -1,0 +1,40 @@
+{
+  "ExtractionRequest": {
+    "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ExtractionRequests.OwnershipExtractionRequest",
+    "ContentFieldNames": [
+      "Asset ID",
+      "Asset Status",
+      "Asset Status Description",
+      "Change Sign",
+      "Common Code",
+      "Currency Code",
+      "Currency Code Description",
+      "CUSIP",
+      "File Code",
+      "Issuer ID",
+      "Issuer Name",
+      "Issuer OrgID",
+      "RCP ID",
+      "Issuer Short Name",
+      "Legal Entity OrgID",
+      "Holdings Previous Report Date",
+      "Holdings Report Date",
+      "Owner Country",
+      "Owner ID",
+      "Owner Name",
+      "Owner Type",
+      "Owner Type Description",
+      "Percent of Shares Outstanding",
+      "Primary Issue Flag",
+      "Security Description",
+      "Shares Held",
+      "Value Held",
+      "Shares Changed",
+      "Value Changed"
+    ],
+    "IdentifierList": {
+      "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ExtractionRequests.InstrumentIdentifierList",
+      "InstrumentIdentifiers": null
+    }
+  }
+}

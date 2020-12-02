@@ -1,0 +1,39 @@
+{
+    "ExtractionRequest": {
+        "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ExtractionRequests.TermsAndConditionsExtractionRequest",
+        "ContentFieldNames": [
+            "Security Long Name",
+            "144A Registered Flag",
+            "Regulation S Indicator",
+            "Conversion Terms End Date",
+            "Index Principal Flag",
+            "Conversion Terms Start Date",
+            "RIC",
+            "Round Lot Size",
+            "Redemption Value",
+            "Original Issue Amount",
+            "Issue Price",
+            "First Coupon Date",
+            "Issue Date",
+            "Par Value",
+            "Accrual Date",
+            "Base Index",
+            "Factor",
+            "Original Issue Discount Flag",
+            "End Of Month Payment Flag",
+            "ISIN",
+            "Index Linked Bond Base Index",
+            "Coupon Frequency Description",
+            "Total Amount Outstanding",
+            "Maturity Date",
+            "Total Amount Issued",
+            "Capitilization Flag",
+            "Currency Code",
+            "Trading Status"
+        ],
+        "IdentifierList": {
+            "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ExtractionRequests.InstrumentIdentifierList",
+            "InstrumentIdentifiers": null
+        }
+    }
+}

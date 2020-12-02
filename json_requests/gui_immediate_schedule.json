@@ -1,0 +1,13 @@
+{
+  "Name": null,
+  "Recurrence": {
+    "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.Schedules.SingleRecurrence",
+    "IsImmediate": true
+  },
+  "Trigger": {
+    "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.Schedules.ImmediateTrigger",
+    "LimitReportToTodaysData": true
+  },
+  "ListId": null,
+  "ReportTemplateId": null
+}

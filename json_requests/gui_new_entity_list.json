@@ -1,0 +1,4 @@
+{
+  "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.SubjectLists.EntityList",
+  "Name": "myEntityListName"
+}

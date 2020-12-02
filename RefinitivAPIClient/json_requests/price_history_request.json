@@ -1,0 +1,41 @@
+{
+  "ExtractionRequest": {
+    "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ExtractionRequests.PriceHistoryExtractionRequest",
+    "ContentFieldNames": [
+      "RIC",
+      "ISIN",
+      "SEDOL",
+      "Currency Code",
+      "Currency Code Description",
+      "Trade Date",
+      "Expiration Date",
+      "Days To Expiration",
+      "Strike Price",
+      "Exchange Code",
+      "Exchange Description",
+      "Exchange Volume Unscaled",
+      "Universal Close Price",
+      "Alternate Close Price",
+      "High Price",
+      "Low Price",
+      "Open Price",
+      "Bid Price",
+      "Ask Price",
+      "Mid Price",
+      "Turnover",
+      "Volume",
+      "Accumulated Volume Unscaled",
+      "Underlying RIC",
+      "Underlying Security Description",
+      "Put Call Flag"
+    ],
+    "IdentifierList": {
+      "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ExtractionRequests.InstrumentIdentifierList",
+      "InstrumentIdentifiers": null
+    },
+    "Condition": {
+      "QueryStartDate": null,
+      "QueryEndDate": null
+    }
+  }
+}

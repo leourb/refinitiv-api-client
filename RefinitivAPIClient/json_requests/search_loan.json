@@ -1,0 +1,17 @@
+{
+    "SearchRequest": {
+        "ActiveOnly": null,
+        "BaseRateCodes": null,
+        "BidPrice": null,
+        "CompanyName": null,
+        "DomicileCodes": null,
+        "FacilityTypeCodes": null,
+        "Identifier": null,
+        "IdentifierType": null,
+        "IndustryCodes": null,
+        "Margin": null,
+        "MaturityDate": null,
+        "Ticker": null,
+        "PreferredIdentifierType": null
+    }
+}

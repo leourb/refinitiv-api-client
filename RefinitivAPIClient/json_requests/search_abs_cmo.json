@@ -1,0 +1,14 @@
+{
+    "SearchRequest": {
+        "AssetStatuses": null,
+        "CouponRate": null,
+        "CurrencyCodes": null,
+        "Issue": null,
+        "SecurityGroup": null,
+        "Series": null,
+        "Identifier": null,
+        "IdentifierType": null,
+        "Tranche": null,
+        "PreferredIdentifierType": null
+    }
+}

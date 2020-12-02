@@ -1,4 +1,0 @@
-{
-  "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.SubjectLists.InstrumentList",
-  "Name": "myInstrumentListName"
-}

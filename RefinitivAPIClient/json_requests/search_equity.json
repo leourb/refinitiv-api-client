@@ -1,0 +1,20 @@
+{
+    "SearchRequest": {
+        "AssetStatus": "Active",
+        "AssetCategoryCodes": null,
+        "SubTypeCodes": null,
+        "CurrencyCodes": null,
+        "CompanyName": null,
+        "Description": null,
+        "DomicileCodes": null,
+        "ExchangeCodes": null,
+        "FairValueIndicator": null,
+        "FileCodes": null,
+        "GicsCodes": null,
+        "OrgId": null,
+        "Ticker": null,
+        "Identifier": null,
+        "IdentifierType": null,
+        "PreferredIdentifierType": null
+    }
+}

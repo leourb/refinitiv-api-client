@@ -1,0 +1,14 @@
+{
+    "SearchRequest": {
+        "AssetStatuses": null,
+        "CouponRate": null,
+        "Callable": true,
+        "Putable": true,
+        "Sinkable": true,
+        "MaturityDate": null,
+        "IssuerDescription": null,
+        "StateCode": null,
+        "IdentifierType": null,
+        "PreferredIdentifierType": null
+    }
+}

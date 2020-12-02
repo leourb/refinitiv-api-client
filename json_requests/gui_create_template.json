@@ -1,9 +1,0 @@
-{
-  "@odata.type": "#ThomsonReuters.Dss.Api.Extractions.ReportTemplates.%s",
-  "ShowColumnHeaders": true,
-  "Name": null,
-  "Headers": [],
-  "Trailers": [],
-  "ContentFields": null,
-  "Condition": null
-}

@@ -9,10 +9,10 @@ with open("README.md", "r") as fh:
 print(os.path.join(cur_directory_path))
 
 setuptools.setup(
-    name="RefinitivAPIClient-leourb",
+    name="RefinitivAPIClient",
     version="2.0.1",
     author="Leonardo Urbano",
-    author_email="leonardo.urbano@.com",
+    author_email="leonardo.urbano87@libero.it",
     packages=setuptools.find_packages(),
     package_data={'RefinitivAPIClient': ['json_requests/*.json']},
     include_package_data=True,

@@ -19,7 +19,7 @@ setuptools.setup(
     description="A comprehensive Python Package for Refinitiv",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/leourb",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

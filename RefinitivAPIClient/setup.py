@@ -6,8 +6,6 @@ cur_directory_path = os.path.abspath(os.path.dirname(__file__))
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-print(os.path.join(cur_directory_path))
-
 setuptools.setup(
     name="RefinitivAPIClient",
     version="2.0.1",

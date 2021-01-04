@@ -17,7 +17,7 @@ setuptools.setup(
     description="A comprehensive Python Package for Refinitiv",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/leourb",
+    url="https://github.com/leourb/refinitiv-api-client",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
